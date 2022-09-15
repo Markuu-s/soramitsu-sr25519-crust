@@ -59,4 +59,4 @@ unset(static_lib_path)
 unset(lib_path)
 unset(include_path)
 
-check_required_components(schnorrkel_crust)
+
